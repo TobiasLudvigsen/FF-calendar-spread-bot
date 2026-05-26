@@ -1,0 +1,25 @@
+# Credentials - må ALDRIG uploades
+.env
+
+# Databaser
+*.db
+
+# Data filer
+*.csv
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Gamle versioner
+BOT_FF_2.py
+IB_Screener.py
